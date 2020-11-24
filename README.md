@@ -1,1 +1,1 @@
-[![npv3s's stats](https://github-readme-stats.vercel.app/api?username=npv3s&show_icons=true&theme=onedark)](#)
+[![npv3s's stats](https://github-readme-stats.vercel.app/api?username=npv3s&count_private=true&show_icons=true&theme=dark)](#)
